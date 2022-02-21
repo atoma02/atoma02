@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @atoma02
-- 👀 I’m interested in web development and blockchain apps
-- 🌱 I’m currently learning how to build websites using Django framework
+- 👀 I’m interested in web development and blockchain apps.
+- 🌱 I’m currently learning web development through The Odin Project
